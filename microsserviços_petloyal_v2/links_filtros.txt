@@ -1,0 +1,15 @@
+Filtrar por cidade:
+
+http://localhost:8081/catalogos?city=São%20Paulo-SP
+http://localhost:8081/catalogos?city=Rio%20de%20Janeiro-RJ
+http://localhost:8081/catalogos?city=Belo%20Horizonte-MG
+Filtrar por gênero:
+
+http://localhost:8081/catalogos?gender=Macho
+http://localhost:8081/catalogos?gender=Fêmea
+Filtrar por idade (mais jovens primeiro):
+
+http://localhost:8081/catalogos?age=youngest
+Filtrar por idade (mais velhos primeiro):
+
+http://localhost:8081/catalogos?age=oldest

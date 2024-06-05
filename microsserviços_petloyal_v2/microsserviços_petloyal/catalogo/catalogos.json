@@ -1,0 +1,274 @@
+{
+    "catalogo": [
+        {
+            "id": 1,
+            "nome": "Bolinha",
+            "idade": 3,
+            "raca": "Vira-lata",
+            "genero": "Macho",
+            "porte": "Médio",
+            "cidade": "São Paulo-SP",
+            "telefone": "(11) 9673-7321"
+        },
+        {
+            "id": 2,
+            "nome": "Rex",
+            "idade": 5,
+            "raca": "Vira-lata",
+            "genero": "Macho",
+            "porte": "Grande",
+            "cidade": "Rio de Janeiro-RJ",
+            "telefone": "(21) 9659-3939"
+        },
+        {
+            "id": 3,
+            "nome": "Fofinho",
+            "idade": 2,
+            "raca": "Poodle",
+            "genero": "Macho",
+            "porte": "Pequeno",
+            "cidade": "Belo Horizonte-MG",
+            "telefone": "(31) 9345-6235"
+        },
+        {
+            "id": 4,
+            "nome": "Thor",
+            "idade": 4,
+            "raca": "Vira-lata",
+            "genero": "Macho",
+            "porte": "Grande",
+            "cidade": "São Paulo-SP",
+            "telefone": "(11) 9817-4294"
+        },
+        {
+            "id": 5,
+            "nome": "Mel",
+            "idade": 1,
+            "raca": "Vira-lata",
+            "genero": "Fêmea",
+            "porte": "Pequeno",
+            "cidade": "Rio de Janeiro-RJ",
+            "telefone": "(21) 9754-1823"
+        },
+        {
+            "id": 6,
+            "nome": "Luna",
+            "idade": 7,
+            "raca": "Vira-lata",
+            "genero": "Fêmea",
+            "porte": "Médio",
+            "cidade": "São Paulo-SP",
+            "telefone": "(11) 9324-5817"
+        },
+        {
+            "id": 7,
+            "nome": "Marley",
+            "idade": 6,
+            "raca": "Vira-lata",
+            "genero": "Macho",
+            "porte": "Médio",
+            "cidade": "Rio de Janeiro-RJ",
+            "telefone": "(21) 9674-5297"
+        },
+        {
+            "id": 8,
+            "nome": "Bela",
+            "idade": 2,
+            "raca": "Vira-lata",
+            "genero": "Fêmea",
+            "porte": "Médio",
+            "cidade": "Belo Horizonte-MG",
+            "telefone": "(31) 9641-2856"
+        },
+        {
+            "id": 9,
+            "nome": "Bobby",
+            "idade": 3,
+            "raca": "Vira-lata",
+            "genero": "Macho",
+            "porte": "Médio",
+            "cidade": "São Paulo-SP",
+            "telefone": "(11) 9256-8265"
+        },
+        {
+            "id": 10,
+            "nome": "Lola",
+            "idade": 4,
+            "raca": "Dalmata",
+            "genero": "Fêmea",
+            "porte": "Grande",
+            "cidade": "Rio de Janeiro-RJ",
+            "telefone": "(21) 9431-5749"
+        },
+        {
+            "id": 11,
+            "nome": "Cacau",
+            "idade": 5,
+            "raca": "Vira-lata",
+            "genero": "Fêmea",
+            "porte": "Médio",
+            "cidade": "São Paulo-SP",
+            "telefone": "(11) 9356-7814"
+        },
+        {
+            "id": 12,
+            "nome": "Pipoca",
+            "idade": 2,
+            "raca": "Vira-lata",
+            "genero": "Fêmea",
+            "porte": "Pequeno",
+            "cidade": "Belo Horizonte-MG",
+            "telefone": "(31) 9518-2846"
+        },
+        {
+            "id": 13,
+            "nome": "Nina",
+            "idade": 6,
+            "raca": "Vira-lata",
+            "genero": "Fêmea",
+            "porte": "Médio",
+            "cidade": "Rio de Janeiro-RJ",
+            "telefone": "(21) 9364-1528"
+        },
+        {
+            "id": 14,
+            "nome": "Buddy",
+            "idade": 1,
+            "raca": "Vira-lata",
+            "genero": "Macho",
+            "porte": "Pequeno",
+            "cidade": "São Paulo-SP",
+            "telefone": "(11) 9456-8723"
+        },
+        {
+            "id": 15,
+            "nome": "Lucky",
+            "idade": 4,
+            "raca": "Vira-lata",
+            "genero": "Macho",
+            "porte": "Médio",
+            "cidade": "Belo Horizonte-MG",
+            "telefone": "(31) 9746-3825"
+        },
+        {
+            "id": 16,
+            "nome": "Duque",
+            "idade": 3,
+            "raca": "Vira-lata",
+            "genero": "Macho",
+            "porte": "Pequeno",
+            "cidade": "São Paulo-SP",
+            "telefone": "(11) 9638-2746"
+        },
+        {
+            "id": 17,
+            "nome": "Pingo",
+            "idade": 2,
+            "raca": "Vira-lata",
+            "genero": "Fêmea",
+            "porte": "Pequeno",
+            "cidade": "Rio de Janeiro-RJ",
+            "telefone": "(21) 9573-1826"
+        },
+        {
+            "id": 18,
+            "nome": "Chico",
+            "idade": 5,
+            "raca": "Vira-lata",
+            "genero": "Macho",
+            "porte": "Médio",
+            "cidade": "Belo Horizonte-MG",
+            "telefone": "(31) 9725-8163"
+        },
+        {
+            "id": 19,
+            "nome": "Spike",
+            "idade": 7,
+            "raca": "Vira-lata",
+            "genero": "Fêmea",
+            "porte": "Médio",
+            "cidade": "São Paulo-SP",
+            "telefone": "(11) 9513-6824"
+        },
+        {
+            "id": 20,
+            "nome": "Xuxa",
+            "idade": 3,
+            "raca": "Vira-lata",
+            "genero": "Macho",
+            "porte": "Grande",
+            "cidade": "Rio de Janeiro-RJ",
+            "telefone": "(21) 9834-7195"
+        },
+        {
+            "id": 21,
+            "nome": "Maya",
+            "idade": 4,
+            "raca": "Vira-lata",
+            "genero": "Fêmea",
+            "porte": "Médio",
+            "cidade": "São Paulo-SP",
+            "telefone": "(11) 9526-3184"
+        },
+        {
+            "id": 22,
+            "nome": "Toby",
+            "idade": 2,
+            "raca": "Vira-lata",
+            "genero": "Macho",
+            "porte": "Pequeno",
+            "cidade": "Belo Horizonte-MG",
+            "telefone": "(31) 9483-5721"
+        },
+        {
+            "id": 23,
+            "nome": "Zeus",
+            "idade": 6,
+            "raca": "Vira-lata",
+            "genero": "Macho",
+            "porte": "Grande",
+            "cidade": "São Paulo-SP",
+            "telefone": "(11) 9382-6145"
+        },
+        {
+            "id": 24,
+            "nome": "Scooby",
+            "idade": 1,
+            "raca": "Vira-lata",
+            "genero": "Macho",
+            "porte": "Pequeno",
+            "cidade": "Rio de Janeiro-RJ",
+            "telefone": "(21) 9627-4813"
+        },
+        {
+            "id": 25,
+            "nome": "Princesa",
+            "idade": 5,
+            "raca": "Vira-lata",
+            "genero": "Fêmea",
+            "porte": "Médio",
+            "cidade": "Belo Horizonte-MG",
+            "telefone": "(31) 9546-2817"
+        },
+        {
+            "id": 26,
+            "nome": "Brisa",
+            "idade": 4,
+            "raca": "Vira-lata",
+            "genero": "Fêmea",
+            "porte": "Médio",
+            "cidade": "São Paulo-SP",
+            "telefone": "(11) 9723-6415"
+        },
+        {
+            "id": 27,
+            "nome": "Rufus",
+            "idade": 3,
+            "raca": "Vira-lata",
+            "genero": "Macho",
+            "porte": "Médio",
+            "cidade": "Rio de Janeiro-RJ",
+            "telefone": "(21) 9641-8137"
+        }
+    ]
+}

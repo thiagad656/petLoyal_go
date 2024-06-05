@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PetLoyal</title>
+</head>
+<body>
+    <h1>Animais para adoção</h1>
+
+    <h2>Filtrar por:</h2>
+    <form id="filterForm">
+        <select name="city">
+            <optgroup label="Cidade">
+                <option value="">Ver todos</option>
+                <option value="São Paulo-SP">São Paulo-SP</option>
+                <option value="Rio de Janeiro-RJ">Rio de Janeiro-RJ</option>
+                <option value="Belo Horizonte-MG">Belo Horizonte-MG</option>
+            </optgroup>
+        </select>
+
+        <select name="gender">
+            <optgroup label="Gênero">
+                <option value="">Ver todos</option>
+                <option value="Macho">Machos</option>
+                <option value="Fêmea">Fêmeas</option>
+            </optgroup>
+        </select>
+
+        <select name="age">
+            <optgroup label="Idade">
+                <option value="">Ver todos</option>
+                <option value="youngest">Mais jovens primeiro</option>
+                <option value="oldest">Mais velhos primeiro</option>
+            </optgroup>
+        </select>
+
+        <input type="submit" value="Filtrar">
+    </form>
+
+    <script>
+        document.getElementById("filterForm").addEventListener("submit", function(event) {
+            event.preventDefault();
+            var formData = new FormData(this);
+            var queryString = new URLSearchParams(formData).toString();
+            var url = "/catalogos?" + queryString;
+            window.location.href = url;
+        });
+    </script>
+</body>
+</html>
